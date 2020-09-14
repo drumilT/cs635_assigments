@@ -1,0 +1,4 @@
+Add code for gamma and golomb codes
+
+Gamma is drop first 1 ; and show the rest along with the length of the rest in unary code
+Golomb is given n,m ; add n//m and n%m (+ 2^(b+1)-m if r >= 2^(b+1)-m where b is floor(log_2(m))) 
